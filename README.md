@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1> All About Me</h1>
-<img src="photo01.jpg"/>
+<img src="photo.jpg"/>
 <p>
 My name is Melosa Ng Jingya. I am a student in Dunman High School.Currently in 1st year high school. </p>
 <p>
